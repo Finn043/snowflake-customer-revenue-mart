@@ -1,0 +1,17 @@
+order_id,customer_id,order_date,product_line,order_amount
+O1001,C001,2024-02-03,Analytics Retainer,4200
+O1002,C002,2024-02-16,Dashboard Sprint,3100
+O1003,C003,2024-03-01,Data Quality Audit,2600
+O1004,C001,2024-03-18,Analytics Retainer,4200
+O1005,C004,2024-03-22,Warehouse Setup,5400
+O1006,C005,2024-04-02,Dashboard Sprint,3500
+O1007,C002,2024-04-19,Data Quality Audit,2200
+O1008,C006,2024-04-28,Analytics Retainer,4100
+O1009,C003,2024-05-08,Dashboard Sprint,3300
+O1010,C007,2024-05-20,Warehouse Setup,6100
+O1011,C001,2024-05-29,Analytics Retainer,4200
+O1012,C008,2024-06-05,Data Quality Audit,2400
+O1013,C004,2024-06-16,Dashboard Sprint,3600
+O1014,C006,2024-06-22,Analytics Retainer,4100
+O1015,C007,2024-07-03,Warehouse Setup,6100
+O1016,C005,2024-07-14,Dashboard Sprint,3500

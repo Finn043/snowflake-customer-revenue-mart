@@ -1,0 +1,9 @@
+customer_id,customer_name,acquisition_channel,signup_date,region
+C001,Aster Finance,LinkedIn Ads,2024-01-12,VIC
+C002,Northline Health,Organic Search,2024-01-18,NSW
+C003,Harbour Retail,Partner Referral,2024-02-04,VIC
+C004,Vertex Education,LinkedIn Ads,2024-02-21,QLD
+C005,Atlas Mobility,Email Campaign,2024-03-03,NSW
+C006,Clearview Labs,Organic Search,2024-03-15,VIC
+C007,Nova Grants,Partner Referral,2024-04-11,SA
+C008,Metro Insight,Email Campaign,2024-04-29,VIC

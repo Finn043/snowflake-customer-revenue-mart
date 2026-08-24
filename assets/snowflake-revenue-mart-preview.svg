@@ -1,0 +1,60 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="28" fill="#F5F7FA"/>
+  <rect x="34" y="34" width="1132" height="692" rx="20" fill="white" stroke="#D9E2EC"/>
+  <text x="64" y="88" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">SNOWFLAKE REVENUE MART</text>
+  <text x="64" y="122" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Raw customer orders -> staging quality gates -> BI-ready marts</text>
+  <rect x="846" y="56" width="140" height="42" rx="10" fill="#EAF2FF" stroke="#CFE2FF"/>
+  <text x="877" y="82" fill="#1168C7" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Snowflake</text>
+  <rect x="1006" y="56" width="120" height="42" rx="10" fill="#F1F5F9" stroke="#D9E2EC"/>
+  <text x="1038" y="82" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">XSMALL</text>
+
+  <g transform="translate(64 165)">
+    <rect width="238" height="122" rx="14" fill="#EEF6FF" stroke="#CFE2FF"/>
+    <text x="22" y="38" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Revenue</text>
+    <text x="22" y="83" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">$62.5K</text>
+    <text x="164" y="84" fill="#188038" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">+18%</text>
+  </g>
+  <g transform="translate(324 165)">
+    <rect width="238" height="122" rx="14" fill="#EEF6FF" stroke="#CFE2FF"/>
+    <text x="22" y="38" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Avg Order Value</text>
+    <text x="22" y="83" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">$3.9K</text>
+  </g>
+  <g transform="translate(584 165)">
+    <rect width="238" height="122" rx="14" fill="#EEF6FF" stroke="#CFE2FF"/>
+    <text x="22" y="38" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Repeat Customers</text>
+    <text x="22" y="83" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">63%</text>
+  </g>
+  <g transform="translate(844 165)">
+    <rect width="238" height="122" rx="14" fill="#EEF6FF" stroke="#CFE2FF"/>
+    <text x="22" y="38" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Best Channel ROAS</text>
+    <text x="22" y="83" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">9.38x</text>
+  </g>
+
+  <rect x="64" y="326" width="660" height="324" rx="16" fill="#FFFFFF" stroke="#D9E2EC"/>
+  <text x="92" y="374" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Monthly revenue trend</text>
+  <line x1="108" y1="594" x2="686" y2="594" stroke="#D9E2EC"/>
+  <line x1="108" y1="526" x2="686" y2="526" stroke="#E8EEF5"/>
+  <line x1="108" y1="458" x2="686" y2="458" stroke="#E8EEF5"/>
+  <line x1="108" y1="390" x2="686" y2="390" stroke="#E8EEF5"/>
+  <path d="M108 557 C158 520 194 512 244 538 C304 568 340 454 392 488 C444 520 484 418 536 442 C596 468 628 430 686 396" stroke="#1168C7" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M108 557 C158 520 194 512 244 538 C304 568 340 454 392 488 C444 520 484 418 536 442 C596 468 628 430 686 396 L686 594 L108 594 Z" fill="#1168C7" opacity="0.14"/>
+  <text x="108" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">Feb</text>
+  <text x="224" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">Mar</text>
+  <text x="340" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">Apr</text>
+  <text x="456" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">May</text>
+  <text x="572" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">Jun</text>
+  <text x="666" y="622" fill="#52657A" font-family="Inter, Arial, sans-serif" font-size="13">Jul</text>
+
+  <rect x="754" y="326" width="328" height="324" rx="16" fill="#FFFFFF" stroke="#D9E2EC"/>
+  <text x="782" y="374" fill="#071A2F" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Pipeline</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">
+    <rect x="792" y="410" width="252" height="42" rx="10" fill="#F1F5F9"/>
+    <text x="824" y="437" fill="#071A2F">RAW.CUSTOMERS / ORDERS</text>
+    <rect x="792" y="476" width="252" height="42" rx="10" fill="#EAF2FF"/>
+    <text x="824" y="503" fill="#1168C7">STAGING QUALITY VIEWS</text>
+    <rect x="792" y="542" width="252" height="42" rx="10" fill="#F1F5F9"/>
+    <text x="824" y="569" fill="#071A2F">MARTS.REVENUE</text>
+  </g>
+  <path d="M918 454V474" stroke="#1168C7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M918 520V540" stroke="#1168C7" stroke-width="3" stroke-linecap="round"/>
+</svg>
